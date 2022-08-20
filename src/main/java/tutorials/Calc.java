@@ -4,7 +4,7 @@ public class Calc {
         return x + y;
     }
     
-    public int subtract (int x, int y){
+    public static int subtract(int x, int y){
         return x + y;
     }
 }
